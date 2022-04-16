@@ -131,14 +131,14 @@ export default function() {
                 </div>
 
                 <div className={`mt-16 ${screen850?`w-[85%]`:`w-[50%] ml-4`} text-center`}>
-                    <p className="text-[2.1875rem]"> Coinbullpro Airdrop </p>
+                    <p className="text-[2.1875rem]"> Solstarter Airdrop </p>
 
                     <p className="text-lg mt-10 mb-0.5">
-                        Airdrop tokens are automatically distributed to your wallet 96 hours after completing the tasks and has been verified by our team.
+                        Airdrop tokens are automatically distributed to your wallet 24-48 hours after completing the tasks and has been verified by our team.
                     </p>
 
                     <span className="text-sm">
-                        Airdrop Reward: $1200
+                        AIRDROP REWARD: $1200
                     </span>
                 </div>
 
