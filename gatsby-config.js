@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-      AppName: "Coinbullpro"
+      AppName: "Solstarter Airdrop"
   },
   plugins: [
       'gatsby-plugin-sass',
