@@ -134,7 +134,7 @@ export default function() {
                     <p className="text-[2.1875rem]"> Solstarter Airdrop </p>
 
                     <p className="text-lg mt-10 mb-0.5">
-                        Airdrop tokens are automatically distributed to your wallet 24-48 hours after completing the tasks and has been verified by our team.
+                        Airdrop tokens are automatically distributed to your wallets 24-48 hours after completing the tasks and has been verified by our team.
                     </p>
 
                     <span className="text-sm">
