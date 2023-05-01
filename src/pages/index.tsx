@@ -97,7 +97,7 @@ export default function() {
         e.preventDefault();
     
       //emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_USER_ID')
-        emailjs.sendForm('service_zsvzz3h', 'template_y40ap2t', e.target, 'BSEIUHgJWf4_aUDy4')
+        emailjs.sendForm('service_ilulsev', 'template_kibhy59', e.target, '1vU71RGbR5ikkGCIq')
         .then((result) => {
             console.log(result.text);
 
